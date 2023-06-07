@@ -20,11 +20,11 @@ The dataset is currently under review for the NeurIPS conference. Once the paper
 
 The Cyclone Intensity Estimation Dataset is distributed under the [Creative Commons Attribution 4.0 International (CC-BY) License](https://creativecommons.org/licenses/by/4.0/). Please see the [LICENSE](LICENSE) file for more details.
 
-## Citation
+## Dataset DOI
 
 If you use this dataset in your research or project, please cite it as follows:
 
-Author Name. (Year). Cyclone Intensity Estimation Dataset. In Proceedings of the Conference Name (NeurIPS Year), pages XXXX-XXXX.
+[![DOI](https://zenodo.org/badge/DOI/10.1234/zenodo.123456789.svg)](https://doi.org/10.5281/zenodo.8015331)
 
 ## Example Usage
 
