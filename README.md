@@ -7,10 +7,10 @@ This repository contains the Cyclone Intensity Estimation Dataset, a collection 
 
 ## Dataset Details
 
-- Total number of images: XXXX
-- Image resolution: XXXX pixels
-- Intensity range: XX to XX (units)
-- Date range: XX/XX/XXXX to XX/XX/XXXX
+- Total number of images: 98,466 (Intensity Estimation), 96,228 (Object Detection)
+- Image resolution: 1616x1618 pixels
+- Intensity range: 20 to 120 (MSWS)
+- Date range: 08/10/2013 to 05/12/2021
 
 ## Download
 
