@@ -49,15 +49,3 @@ labels = data['intensity']
 # Evaluate model performance
 # ...
 ```
-
-## Contact
-
-For any questions or inquiries regarding the dataset, please contact the authors:
-
-- Author 1:
-  - Name: Author 1 Name
-  - Email: author1@example.com
-
-- Author 2:
-  - Name: Author 2 Name
-  - Email: author2@example.com
