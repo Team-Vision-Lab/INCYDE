@@ -3,7 +3,7 @@
 
 # Cyclone Intensity Estimation Dataset
 
-This repository contains the Cyclone Intensity Estimation Dataset, a collection of satellite images of cyclones captured by the INSAT satellite, along with corresponding intensity labels. The dataset was collected from the MOSDAC database.
+INCYDE (INSAT-based Cyclone Detection and Intensity Estimation) is a cyclone detection and intensity estimation dataset. The cyclone images in the dataset are captured from INSAT 3D/3DR satellites over the Indian Ocean. The proposed INCYDE dataset contains over 100k cyclone images with augmentations taken from cyclones over the Indian Ocean from the year 2013 to 2021. The dataset pertains to two specific tasks: cyclone detection as an object detection task, and intensity estimation as a regression task. In addition to the dataset, this study introduces baseline models that were trained on the newly presented dataset
 
 ## Dataset Details
 
