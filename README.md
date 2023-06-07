@@ -18,8 +18,7 @@ The dataset is currently under review for the NeurIPS conference. Once the paper
 
 ## Dataset License
 
-The Cyclone Intensity Estimation Dataset is distributed under the [Creative Commons Attribution 4.0 International (CC-BY) License](https://creativecommons.org/licenses/by/4.0/). Please see the [LICENSE](LICENSE) file for more details.
-
+The Cyclone Intensity Estimation Dataset is distributed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 ## Dataset DOI
 
 If you use this dataset in your research or project, please cite it as follows:
